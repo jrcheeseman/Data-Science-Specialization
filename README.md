@@ -1,3 +1,3 @@
-# Data Science Specialization
+# Data Science Specialization from Johns Hopikins University 
 
-Main repo for the data science specialization on coursera
+https://www.coursera.org/specializations/jhu-data-science
