@@ -33,3 +33,7 @@ The final tidy data set has the following variables:
 | Activity       | Character    | NA           | NA           | Type of physical activity performed by the subject during measurement  |
 | Subject        | Integer      | 1            | 30           | Experimental subject identification number |
 | Average        | Numeric      | -0.9976661   | 0.9745087    | Average measurement value per variable, subject, and activity |
+
+Note to grader: 
+
+The assignment instructions did not clearly distinguish what information is expected in the CodeBook and README files. The first set of instructions say "...a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected." But during submission the instructions were "You should include a README.md in the repo describing how the script works and the code book describing the variables." I attempted to provide all of the required information in both the CodeBook and README files, even though this repeats some of the same information. I hope you will understand...
