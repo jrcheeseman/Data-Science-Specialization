@@ -49,4 +49,4 @@ groups <- group_by(long_skinny, variable, activity, subject)
 tidy_data <- dplyr::summarize(groups, average = mean(value))
 
 # Write data to file
-write.table(tidy_data, "tidy_data.txt", sep=",")
+write.table(tidy_data, "tidy_data.txt", row.name=FALSE)
