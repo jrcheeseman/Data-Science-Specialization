@@ -33,3 +33,7 @@ The script run_analysis.R does this in the following steps:
   11. Create a tidy data set with the average of each variable for each activity and each subject
   12. Write data to file
   
+Note to grader: 
+
+The assignment instructions did not clearly distinguish what information is expected in the CodeBook and README files. The first set of instructions say "...a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected." But during submission the instructions were "You should include a README.md in the repo describing how the script works and the code book describing the variables." I attempted to provide all of the required information in both the CodeBook and README files, even though this repeats some of the same information. I hope you will understand...
+  
